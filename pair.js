@@ -59,10 +59,11 @@ router.get('/', async (req, res) => {
                let SIGMA_MD_TEXT = `
 ━━━━━━━━━━━❀˖°❀˖°❀˖°┗━━━━━━━━━━━             
 || *_👌 hello guys this is youre session id_*
-|| *_✅ you will need it to upload on all bots of msela chui md_*
-|| *_📡 currently working on Msela chui-md_*
-|| *_📌 join all of whatsapp group for our updates daily_*
-||   |❀˖|*group* : https://chat.whatsapp.com/ICNOZzsDH9E81j3RlqLx4w
+|| *_✅ you will need it to upload on all bots of 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐌𝐀𝐒𝐓𝐄𝐑-𝐁𝐎𝐓_*
+|| *_📡 currently working on 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐌𝐀𝐒𝐓𝐄𝐑-𝐁𝐎𝐓_*
+|| *_📌 join all of whatsapp group and channel for our updates daily_*
+||   |❀˖|*group* : https://chat.whatsapp.com/Bqb6oEUxAneAqxBUBfNdLr_*
+||   |❀˖|*channel* : https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q
 || *_Don't Forget To Give Star To My Repo_*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
